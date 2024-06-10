@@ -1,0 +1,6 @@
+projectKey=nextjs-dashboard
+serverUrl=http://localhost:9999
+serverVersion=9.2.4.50792
+dashboardUrl=http://localhost:9999/dashboard?id=nextjs-dashboard
+ceTaskId=AZAAQQ01E-1ZwUiCG62L
+ceTaskUrl=http://localhost:9999/api/ce/task?id=AZAAQQ01E-1ZwUiCG62L
